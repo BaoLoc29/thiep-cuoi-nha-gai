@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "SVN-Amstirdam";
+  src: url("./assets/fonts/SVN-Amstirdam.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pinyon Script";
+  src: url("./assets/fonts/PinyonScript-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "UTM-Cafeta";
+  src: url("./assets/fonts/UTM-Cafeta.ttf") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CormorantUpright-SemiBold";
+  src: url("./assets/fonts/CormorantUpright-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Ephesis";
+  src: url("./assets/fonts/Ephesis-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
